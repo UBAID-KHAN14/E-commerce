@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -69,3 +70,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 # E-commerce
 Full E-Commerce website using Laravel
 >>>>>>> 5a40e6fb5cc01c1f14f5f9e0a936146221b9e70e
+=======
+# E-commerce
+>>>>>>> 8f8c77f1785370c945222d54e3cb8c4e75569092
